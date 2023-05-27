@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Usage: rename_files.sh <file_type> <num_files> <new_name>
+# Usage: bulk_rename_files.sh <file_type> <num_files> <new_name>
 
 file_type=$1
 num_files=$2
