@@ -12,8 +12,7 @@
 # this kind of service provided.
 
 # I will link all of my resources in the README
-# as well as any and all links I used to copy
-# code from. 
+# as well 
 #.......................................................
 
 
